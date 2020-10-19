@@ -1,0 +1,8 @@
+Collecting setuptools
+  Using cached setuptools-50.3.1-py3-none-any.whl (785 kB)
+Collecting wheel
+  Using cached wheel-0.35.1-py2.py3-none-any.whl (33 kB)
+Collecting setuptools_scm
+  Using cached setuptools_scm-4.1.2-py2.py3-none-any.whl (27 kB)
+Installing collected packages: setuptools, wheel, setuptools-scm
+Successfully installed setuptools-50.3.1 setuptools-scm-4.1.2 wheel-0.35.1

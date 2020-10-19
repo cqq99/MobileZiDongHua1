@@ -1,0 +1,70 @@
+{
+  "uid" : "cfb826eb131fd6cf",
+  "name" : "test_update_setting",
+  "fullName" : "cases.test_update_setting.TestUpdateSetting#test_update_setting",
+  "historyId" : "dc6ddef02b02ca34a6b6f812a2f321fb",
+  "time" : {
+    "start" : 1603096024683,
+    "stop" : 1603096024683,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ok",
+  "statusTrace" : "('cases\\\\test_update_setting.py', 19, 'Skipped: ok')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif(True, reason='ok')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_update_setting"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUpdateSetting"
+  }, {
+    "name" : "host",
+    "value" : "v-cuiqingqing-L1"
+  }, {
+    "name" : "thread",
+    "value" : "25868-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_update_setting"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eb684f9ed630e70b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ok",
+      "time" : {
+        "start" : 1603095451788,
+        "stop" : 1603095451788,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skipif(True, reason='ok')" ]
+  },
+  "source" : "cfb826eb131fd6cf.json",
+  "parameterValues" : [ ]
+}

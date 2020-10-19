@@ -1,0 +1,70 @@
+{
+  "uid" : "b63e8d128689db77",
+  "name" : "test_open_gallery",
+  "fullName" : "cases.test_open_galleryy.TestOpenGallery#test_open_gallery",
+  "historyId" : "5576a27259cd6ebd328b3903e8b9e411",
+  "time" : {
+    "start" : 1603095955171,
+    "stop" : 1603095955171,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ok",
+  "statusTrace" : "('cases\\\\test_open_galleryy.py', 16, 'Skipped: ok')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif(True, reason='ok')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_open_galleryy"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOpenGallery"
+  }, {
+    "name" : "host",
+    "value" : "v-cuiqingqing-L1"
+  }, {
+    "name" : "thread",
+    "value" : "25868-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_open_galleryy"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "300df47fb377abe",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ok",
+      "time" : {
+        "start" : 1603095382691,
+        "stop" : 1603095382691,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skipif(True, reason='ok')" ]
+  },
+  "source" : "b63e8d128689db77.json",
+  "parameterValues" : [ ]
+}

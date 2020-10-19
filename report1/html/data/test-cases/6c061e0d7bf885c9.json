@@ -1,0 +1,60 @@
+{
+  "uid" : "6c061e0d7bf885c9",
+  "name" : "test_search_on[args0]",
+  "fullName" : "cases.test_search_thread.TestSearch#test_search_on",
+  "historyId" : "74b4f3837caf1d4d1586b27f75db9c80",
+  "time" : {
+    "start" : 1603095382699,
+    "stop" : 1603095414347,
+    "duration" : 31648
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_search_thread"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSearch"
+  }, {
+    "name" : "host",
+    "value" : "v-cuiqingqing-L1"
+  }, {
+    "name" : "thread",
+    "value" : "8480-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_search_thread"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "args",
+    "value" : "{'value': '111'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c061e0d7bf885c9.json",
+  "parameterValues" : [ "{'value': '111'}" ]
+}

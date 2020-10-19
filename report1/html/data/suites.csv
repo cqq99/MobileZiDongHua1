@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 19 16:26:27 GMT+08:00 2020","Mon Oct 19 16:27:04 GMT+08:00 2020","37191","cases","test_search_thread","TestSearch","","","test_search_on[args1]",""
+"skipped","Mon Oct 19 16:27:04 GMT+08:00 2020","Mon Oct 19 16:27:04 GMT+08:00 2020","0","cases","test_update_setting","TestUpdateSetting","","","test_update_setting",""
+"skipped","Mon Oct 19 16:25:55 GMT+08:00 2020","Mon Oct 19 16:25:55 GMT+08:00 2020","0","cases","test_open_galleryy","TestOpenGallery","","","test_open_gallery",""
+"skipped","Mon Oct 19 16:25:55 GMT+08:00 2020","Mon Oct 19 16:25:55 GMT+08:00 2020","0","cases","test_search","TestSearch","","","test_search_on",""
+"passed","Mon Oct 19 16:25:55 GMT+08:00 2020","Mon Oct 19 16:26:27 GMT+08:00 2020","32275","cases","test_search_thread","TestSearch","","","test_search_on[args0]",""

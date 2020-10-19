@@ -1,0 +1,51 @@
+[ {
+  "uid" : "cc32d923bcdc77fc",
+  "name" : "test_search_on[args1]",
+  "time" : {
+    "start" : 1603095987474,
+    "stop" : 1603096024665,
+    "duration" : 37191
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "cfb826eb131fd6cf",
+  "name" : "test_update_setting",
+  "time" : {
+    "start" : 1603096024683,
+    "stop" : 1603096024683,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b63e8d128689db77",
+  "name" : "test_open_gallery",
+  "time" : {
+    "start" : 1603095955171,
+    "stop" : 1603095955171,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8e26f405fa579969",
+  "name" : "test_search_on",
+  "time" : {
+    "start" : 1603095955176,
+    "stop" : 1603095955176,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "81fc1b01653b9a61",
+  "name" : "test_search_on[args0]",
+  "time" : {
+    "start" : 1603095955189,
+    "stop" : 1603095987464,
+    "duration" : 32275
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]
